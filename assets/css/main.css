@@ -43,7 +43,7 @@ h4{
 {
 		.main{
 			height: 100vh;
-			overflow: hidden;
+			overflow: scroll;
 		}
 
 		.img-rabbit{
